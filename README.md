@@ -71,7 +71,6 @@ It integrates **feature selection techniques (IG, Gain Ratio, Entropy, Gini Inde
 Install dependencies with:
 
 
-```bash
-pip install pandas numpy scikit-learn scipy torch torchvision torchaudio shap lime transformers einops
+
 ```bash
 pip install pandas numpy scikit-learn scipy torch torchvision torchaudio shap lime transformers einops
